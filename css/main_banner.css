@@ -11,16 +11,16 @@ div[class*=banner]{
   background-position:center;
 }
 .banner01{
-  background-image:url('/images/banner_01.png');
+  background-image:url('../images/banner_01.png');
 }
 .banner02{
-  background-image:url('/images/banner_02.png');
+  background-image:url('../images/banner_02.png');
 }
 .banner03{
-  background-image:url('/images/banner_03.png');
+  background-image:url('../images/banner_03.png');
 }
 .banner04{
-  background-image:url('/images/banner_04.png');
+  background-image:url('../images/banner_04.png');
 }
 .bx-wrapper{
   box-shadow:none;
